@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+/*Now using ARGV + Default user name*/
+
 int main(int argc, char* argv[])
 { 
   if (argv[10] == "")
